@@ -1,0 +1,12 @@
+html { 
+font-family: sans-serif;
+font-size: 62.5%;
+-webkit-tap-highlight-color:rgba(0,0,0,0);
+-webkit-tap-text-size-adjust:100%;
+-ms-text-size-adjust:100%;
+}
+body{font-size:14px;
+margin:0;
+font-family:Helvitica Neue", Helvitica, Ari;
+line-height:1.42857143
+color:#C0C0C0	
